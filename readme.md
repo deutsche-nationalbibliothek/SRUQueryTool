@@ -22,13 +22,12 @@ Das DNB SRU Query Tool kann als Standalone-Anwendung heruntergeladen und einfach
 
 ### Standalone-Anwendung 
 
-In diesem Repository stehen momentan [zwei Versionen des SRUQueryTool als Release](https://github.com/deutsche-nationalbibliothek/SRUQueryTool/releases/tag/v1.0) zur Verfügung: 
+In diesem Repository stehen [zwei Versionen des SRUQueryTool als Release](https://github.com/deutsche-nationalbibliothek/SRUQueryTool/releases/tag/v1.0) zur Verfügung: 
 
   - Windows: Für Windows steht die DNB_SRUQueryTool.exe zum Download bereit. 
   - MacOS: Für Mac steht das Tool als DNB_SRUQueryTool.dmg-Datei zum Download bereit.
 
 Beide Standalone-Versionen wurden aus dem hier bereitgestellten Quellcode mit Hilfe von Pyinstaller gepackt.
-Eine Version für Linux ist geplant. 
 
 
 ### Installation der Python-Anwendung
