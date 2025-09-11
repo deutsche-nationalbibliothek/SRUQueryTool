@@ -42,15 +42,16 @@ Beide Standalone-Versionen wurden aus dem hier bereitgestellten Quellcode mit Hi
   2. Virtuelle Umgebung erstellen (optional, empfohlen):
   ```bash
   python -m venv venv
-```
-```bash
+  ```
+  3. Virtuelle Umgebung aktivieren: 
+  ```bash
   # Unter macOS/Linux:
   source venv/bin/activate
   # Unter Windows:
   venv\Scripts\activate
   ```
 
-  3. Abhängigkeiten installieren:
+  4. Abhängigkeiten installieren:
   ```bash
   pip install -r requirements.txt
   ```
