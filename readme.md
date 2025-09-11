@@ -42,9 +42,11 @@ Beide Standalone-Versionen wurden aus dem hier bereitgestellten Quellcode mit Hi
   2. Virtuelle Umgebung erstellen (optional, empfohlen):
   ```bash
   python -m venv venv
-  # macOS/Linux
+```
+```bash
+  # Unter macOS/Linux:
   source venv/bin/activate
-  # Windows
+  # Unter Windows:
   venv\Scripts\activate
   ```
 
