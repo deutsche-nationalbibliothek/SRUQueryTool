@@ -47,6 +47,7 @@ Beide Standalone-Versionen wurden aus dem hier bereitgestellten Quellcode mit Hi
   ```bash
   # Unter macOS/Linux:
   source venv/bin/activate
+
   # Unter Windows:
   venv\Scripts\activate
   ```
