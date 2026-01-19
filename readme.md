@@ -26,6 +26,7 @@ In diesem Repository stehen [zwei Versionen des SRUQueryTool als Release](https:
 
   - Windows: Für Windows steht die DNB_SRUQueryTool.exe zum Download bereit. 
   - MacOS: Für Mac steht das Tool als DNB_SRUQueryTool.dmg-Datei zum Download bereit.
+  - Linux: Für Linux steht das DNB_SRUQueryTool.AppImage zur Verfügung. 
 
 Beide Standalone-Versionen wurden aus dem hier bereitgestellten Quellcode mit Hilfe von Pyinstaller gepackt.
 
@@ -68,4 +69,8 @@ python DNB_SRUQueryTool.py
 ## Hinweise 
   * Bei mehr als 100.000 Treffern muss die Suchanfrage weiter eingeschränkt werden, da die SRU-Schnittstelle der DNB hier aktuell ein Limit besitzt. 
   * Die XML-Dateien können lokal an einem beliebigen Speicherort abgelegt werden.
+
+
+## Probleme beim Herunterladen oder mit dem Ausführen der Datei? 
+HIer gibt es eine wachsende Sammlung von Troubleshooting-Möglichkeiten: https://github.com/deutsche-nationalbibliothek/SRUQueryTool/blob/main/troubleshooting.md
 
